@@ -1,6 +1,0 @@
-@Dotnet.Tools.ServerSSE_HostAddress = http://localhost:5151
-
-GET {{Dotnet.Tools.ServerSSE_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
